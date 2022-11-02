@@ -237,4 +237,29 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+#Files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.tif
+*.ico
+*.svg
+*.svgz
+*.psd
+*.ai
+*.eps
+*.indd
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.odt
+*.ods
+
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,python
